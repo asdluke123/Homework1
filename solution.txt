@@ -1,0 +1,62 @@
+cd u1_hw_star_wars
+   3 mkdir star_wars
+   4 cd star_wars
+   5 mkdir empire
+   6 mkdir rebellion
+   7 cd empire
+   8 darth_vader.txt
+   9 mkdir darth_vader.txt
+  10 echo "...heavy breathing...">> darth_vader.txt
+  11 echo "...heavy breathing..." >> darth_vader.txt
+  12 echo "...heavy breathing..." >> darth_vader.txt
+  13 cd darth_vader
+  14 cd darth_vader.txt
+  15 echo "...heavy breathing..." >>darth_vader.txt
+  16 cd..
+  17 mkdir emperor_palpatine.txt
+  18 rm darth_vader.txt
+  19 rm emperor_plapatine.txt
+  20 rm emperor_palpatine.txt
+  21 touch darth_vader.txt
+  22 touch
+  23 cd empire
+  24 touch darth_vader.txt
+  25 echo "...heavy breathing..." >> darth_vader.txt
+  26 echo "" >> emperor_palpatine.txt
+  27 mkdir death_star
+  28 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\empire\darth_vader.txt C:\Users\luker\GAhomework\u1_hw_star_wars\st... 
+  29 cd .
+  30 cd ..
+  31 cd rebellion
+  32 echo "Help me, Obi-Wan..." >> princess_leia.txt
+  33 echo "" >>luke_skywalker.txt
+  34 mkdir millenium_falcon
+  35 cd millenium_falcon
+  36 echo "" >>han_solo.txt
+  37 echo "" >>chewbacca.txt
+  38 cd .
+  39 cd ..
+  40 echo "" >>obi_wan.txt
+  41 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\rebellion\luke_skywalker.txt C:\Users\luker\GAhomework\u1_hw_star_w... 
+  42 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\rebellion\obi_wan.txt C:\Users\luker\GAhomework\u1_hw_star_wars\sta...
+  43 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\rebellion\princess_leia.txt C:\Users\luker\GAhomework\u1_hw_star_wa... 
+  44 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\rebellion\millenium_falcon C:\Users\luker\GAhomework\u1_hw_star_war... 
+  45 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\empire\death_star\millenium_falcon\* C:\Users\luker\GAhomework\u1_h...
+  46 cd ..
+  47 cd death_star
+  48 cd empire
+  49 cd death_star
+  50 rm obi_want.txt
+  51 rm obi_wan.txt
+  52 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\empire\death_star\chewbacca.txt C:\Users\luker\GAhomework\u1_hw_sta... 
+  53 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\empire\death_star\han_solo.txt C:\Users\luker\GAhomework\u1_hw_star...
+  54 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\empire\death_star\luke_skywalker.txt C:\Users\luker\GAhomework\u1_h... 
+  55 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\empire\death_star\princess_leia.txt C:\Users\luker\GAhomework\u1_hw... 
+  56 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\empire\death_star\millenium_falcon C:\Users\luker\GAhomework\u1_hw_...
+  57 mv C:\Users\luker\GAhomework\u1_hw_star_wars\star_wars\empire\death_star\darth_vader.txt C:\Users\luker\GAhomework\u1_hw_s... 
+  58 cd ..
+  59 rm death_star
+  60 history | tail -n 250
+  61 cd..
+  62 cd ..
+  63 history | tail -n 250
